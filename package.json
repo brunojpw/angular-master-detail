@@ -24,7 +24,7 @@
     "bootstrap": "^4.4.1",
     "core-js": "^2.5.4",
     "currency-formatter": "^1.5.5",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "popper.js": "^1.16.0",
     "primeicons": "^2.0.0",
